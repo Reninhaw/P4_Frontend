@@ -1,0 +1,14 @@
+.card2 {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.card2 h2{
+    margin-top: 0;
+}
+
+.card2 p {
+    margin-bottom: 0;
+}
